@@ -24,6 +24,6 @@ This GitHub is a place to document my **learning journey, labs, and hands-on exe
 ---
 
 ## 🎯 Career Goal
-To pursue an entry-level cybersecurity roles.
+To grow into a business analyst or data analyst role with a cybersecurity focus, using reporting, process improvement, and stakeholder communication to support better business outcomes.
 
 ---
