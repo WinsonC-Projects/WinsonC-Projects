@@ -22,8 +22,3 @@ This GitHub is a place to document my **learning journey, labs, and hands-on exe
 > *Projects and repositories will grow as I gain experience and complete assignments.*
 
 ---
-
-## 🎯 Career Goal
-To grow into a business analyst or data analyst role with a cybersecurity focus, using reporting, process improvement, and stakeholder communication to support better business outcomes.
-
----
